@@ -1,7 +1,7 @@
 /**
  * @name Discord Blackout
- * @version 0.9.5.8
- * @description Dark and compact theme for BetterDiscord
+ * @version 1.0.0
+ * @description A smooth, black theme for Vencord/BetterDiscord, with a few things added from myself and other plugins
  * @source https://github.com/zenithpaws/Discord-Blackout-Pack
  * @updateUrl https://raw.githubusercontent.com/zenithpaws/Discord-Blackout-Pack/main/Discord-Blackout.theme.css
  * @website https://github.com/zenithpaws/Discord-Blackout-Pack 
@@ -12,7 +12,7 @@
 */
 
 
-@import url(https://zenithpaws.github.io/Discord-Blackout-Pack/Discord-Blackout.css);
+@import url(https://zenithpaws.github.io/Discord-Blackout/Discord-Blackout.css);
 
 /* Horizontal Server List by Gibbu#1211 (https://github.com/DiscordStyles/HorizontalServerList) */
 
