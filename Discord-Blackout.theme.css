@@ -1,7 +1,7 @@
 /**
  * @name Discord Blackout
  * @version 1.0.0
- * @description A smooth, black theme for Vencord/BetterDiscord, with a few things added from myself and other plugins
+ * @description A smooth, black theme for Vencord/BetterDiscord
  * @source https://github.com/zenithpaws/Discord-Blackout
  * @updateUrl https://zenithpaws.github.io/Discord-Blackout/Discord-Blackout.theme.css
  * @website https://github.com/zenithpaws/Discord-Blackout 
@@ -11,15 +11,17 @@
  * @authorLink https://linktr.ee/zenithpaws
 */
 
-/* Discord Night 0.9.5.8 by KillYoy#0295 (https://github.com/KillYoy/DiscordNight/) */
+/* Discord Night 0.9.5.8 by KillYoy#0295 (https://github.com/KillYoy/DiscordNight) */
 @import url(https://zenithpaws.github.io/Discord-Blackout/Discord-Night-0.9.5.8/Discord-Night.css);
 
 /* Horizontal Server List 2.1.0 by Gibbu#1211 (https://github.com/DiscordStyles/HorizontalServerList) */
+@import url(https://zenithpaws.github.io/Discord-Blackout/Horizontal-Server-List-2.1.0/dist/Horizontal-Server-List.css);
 
-@import url(https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css);
+/* Blurple Recolor 1.0.0 by DevilBro (https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor) */
+@import url(https://zenithpaws.github.io/Discord-Blackout/Blurple-Recolor-1.0.0/Blurple-Recolor.css);
 
-/* Blurple Recolor 1.0.0 by DevilBro (https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor/) */
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+/* Discolored 1.3 by snapper#0001 and Nyria#4198 (https://github.com/NYRI4/Discolored) */
+@import url(https://zenithpaws.github.io/Discord-Blackout/Discolored-1.3/Discolored.css);
 
 :root {
 	/* Horizontal Server List Settings */
