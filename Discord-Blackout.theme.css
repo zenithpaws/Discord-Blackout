@@ -2,23 +2,23 @@
  * @name Discord Blackout
  * @version 1.0.0
  * @description A smooth, black theme for Vencord/BetterDiscord, with a few things added from myself and other plugins
- * @source https://github.com/zenithpaws/Discord-Blackout-Pack
- * @updateUrl https://raw.githubusercontent.com/zenithpaws/Discord-Blackout-Pack/main/Discord-Blackout.theme.css
- * @website https://github.com/zenithpaws/Discord-Blackout-Pack 
+ * @source https://github.com/zenithpaws/Discord-Blackout
+ * @updateUrl https://zenithpaws.github.io/Discord-Blackout/Discord-Blackout.theme.css
+ * @website https://github.com/zenithpaws/Discord-Blackout 
  * @invite WaTFrzaYxk
  * @author zenithpaws
  * @authorId 487638433179762688
  * @authorLink https://linktr.ee/zenithpaws
 */
 
+/* Discord Night 0.9.5.8 by KillYoy#0295 (https://github.com/KillYoy/DiscordNight/) */
+@import url(https://zenithpaws.github.io/Discord-Blackout/Discord-Night-0.9.5.8/Discord-Night.css);
 
-@import url(https://zenithpaws.github.io/Discord-Blackout/Discord-Blackout.css);
-
-/* Horizontal Server List by Gibbu#1211 (https://github.com/DiscordStyles/HorizontalServerList) */
+/* Horizontal Server List 2.1.0 by Gibbu#1211 (https://github.com/DiscordStyles/HorizontalServerList) */
 
 @import url(https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css);
 
-/* Blurple Recolor by DevilBro (https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor/) */
+/* Blurple Recolor 1.0.0 by DevilBro (https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BlurpleRecolor/) */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
@@ -27,7 +27,7 @@
 	--HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
 	--HSL-server-direction: column; /* Direct of the server list. | Options: column, column-reverse | DEFAULT: column */
 
-	/*Blurple Recolor Settings*/
+	/* Blurple Recolor Settings */
 	--accentcolor:			163,47,194;		/*	blurple		-	default:	88,101,242		*/
 	--accentcolor2:			225,115,180;	/*	boostpink	-	default:	255,115,250		*/
 	--linkcolor:			190,60,220;		/*	link		-	default:	0,176,244		*/

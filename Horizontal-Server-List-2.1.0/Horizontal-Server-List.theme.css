@@ -8,10 +8,10 @@
  * @website https://gibbu.me
 */
 
-@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://zenithpaws.github.io/Discord-Blackout/Horizontal-Server-List-2.1.0/dist/Horizontal-Server-List.css');
 
 /* Bottom HorizontalServerList. Simply remove the comments surrounding the @import to enable it. */
-/* @import url("https://discordstyles.github.io/HorizontalServerList/bottomhsl.css"); */
+/* @import url("https://zenithpaws.github.io/Discord-Blackout/Horizontal-Server-List-2.1.0/bottomhsl.css"); */
 :root {
   --HSL-server-icon-size: 40px; /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px; /* Spacing between each server icon | DEFAULT: 10px */
